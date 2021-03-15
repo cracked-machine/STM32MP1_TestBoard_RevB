@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name STM32G031)(type Legacy)(uri ${KIPRJMOD}/../../KicadLibrary/symbol/MCU/STM32G031.lib)(options "")(descr ""))
+  (lib (name STM32MP15x)(type Legacy)(uri ${KIPRJMOD}/../../KicadLibrary/symbol/MPU/STM32MP1/STM32MP15x.lib)(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name STM32MP151_LFBGA)(type KiCad)(uri ${KIPRJMOD}/../../KicadLibrary/footprint/BGA/STM32MP151_LFBGA.pretty)(options "")(descr ""))
+  (lib (name Molex_SDIO)(type KiCad)(uri ${KIPRJMOD}/../../KicadLibrary/footprint/CONNECTORS/SIGNAL/Molex_SDIO/Molex_SDIO.pretty)(options "")(descr ""))
+)
