@@ -665,23 +665,6 @@ Connection ~ 12825 3425
 Wire Wire Line
 	12825 3425 12500 3425
 Wire Wire Line
-	13250 5050 13250 4900
-$Comp
-L Device:C C43
-U 1 1 60C8F78E
-P 13250 5200
-F 0 "C43" H 13275 5325 50  0000 L CNN
-F 1 "100nF" H 13250 5075 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 13288 5050 50  0001 C CNN
-F 3 "~" H 13250 5200 50  0001 C CNN
-F 4 "~" H 13250 5200 50  0001 C CNN "Mfr"
-F 5 "~" H 13250 5200 50  0001 C CNN "PartNo"
-	1    13250 5200
-	-1   0    0    -1  
-$EndComp
-Wire Wire Line
-	13250 5350 13250 5525
-Wire Wire Line
 	12925 5050 12925 4900
 $Comp
 L Device:C C42
@@ -699,23 +682,6 @@ $EndComp
 Wire Wire Line
 	12925 5350 12925 5525
 Wire Wire Line
-	12600 5050 12600 4900
-$Comp
-L Device:C C41
-U 1 1 60C8F79E
-P 12600 5200
-F 0 "C41" H 12625 5325 50  0000 L CNN
-F 1 "100nF" H 12600 5075 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 12638 5050 50  0001 C CNN
-F 3 "~" H 12600 5200 50  0001 C CNN
-F 4 "~" H 12600 5200 50  0001 C CNN "Mfr"
-F 5 "~" H 12600 5200 50  0001 C CNN "PartNo"
-	1    12600 5200
-	-1   0    0    -1  
-$EndComp
-Wire Wire Line
-	12600 5350 12600 5525
-Wire Wire Line
 	12275 5050 12275 4900
 $Comp
 L Device:C C40
@@ -732,27 +698,11 @@ F 5 "~" H 12275 5200 50  0001 C CNN "PartNo"
 $EndComp
 Wire Wire Line
 	12275 5350 12275 5525
-Wire Wire Line
-	13250 4900 12925 4900
-Connection ~ 12925 4900
-Wire Wire Line
-	12925 4900 12600 4900
-Connection ~ 12600 4900
-Wire Wire Line
-	12600 4900 12275 4900
 Connection ~ 12275 4900
 Wire Wire Line
 	12275 4900 11775 4900
 Wire Wire Line
 	11775 5525 11775 5675
-Wire Wire Line
-	13250 5525 12925 5525
-Connection ~ 12925 5525
-Wire Wire Line
-	12925 5525 12600 5525
-Connection ~ 12600 5525
-Wire Wire Line
-	12600 5525 12275 5525
 Connection ~ 12275 5525
 Wire Wire Line
 	12275 5525 11775 5525
@@ -887,4 +837,8 @@ $EndComp
 NoConn ~ 4700 5475
 NoConn ~ 4700 5625
 NoConn ~ 4700 5725
+Wire Wire Line
+	12275 5525 12925 5525
+Wire Wire Line
+	12275 4900 12925 4900
 $EndSCHEMATC
