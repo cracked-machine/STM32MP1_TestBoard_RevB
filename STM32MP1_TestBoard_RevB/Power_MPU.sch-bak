@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
-Sheet 2 10
+Sheet 2 9
 Title ""
 Date ""
 Rev "RevB"
@@ -38,6 +38,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 6538 5575 50  
 F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 6500 5725 50  0001 C CNN
 F 4 "Taiyo Yuden" H 6500 5725 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 6500 5725 50  0001 C CNN "PartNo"
+F 6 "C52923" H 6500 5725 50  0001 C CNN "LCSC"
 	1    6500 5725
 	1    0    0    -1  
 $EndComp
@@ -70,6 +71,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 3838 8300 50  
 F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 3800 8450 50  0001 C CNN
 F 4 "Taiyo Yuden" H 3800 8450 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 3800 8450 50  0001 C CNN "PartNo"
+F 6 "C52923" H 3800 8450 50  0001 C CNN "LCSC"
 	1    3800 8450
 	1    0    0    -1  
 $EndComp
@@ -110,6 +112,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 4238 8300 50  
 F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 4200 8450 50  0001 C CNN
 F 4 "Taiyo Yuden" H 4200 8450 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 4200 8450 50  0001 C CNN "PartNo"
+F 6 "C52923" H 4200 8450 50  0001 C CNN "LCSC"
 	1    4200 8450
 	1    0    0    -1  
 $EndComp
@@ -129,6 +132,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 4663 8300 50  
 F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 4625 8450 50  0001 C CNN
 F 4 "Taiyo Yuden" H 4625 8450 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 4625 8450 50  0001 C CNN "PartNo"
+F 6 "C52923" H 4625 8450 50  0001 C CNN "LCSC"
 	1    4625 8450
 	1    0    0    -1  
 $EndComp
@@ -148,6 +152,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 5063 8300 50  
 F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 5025 8450 50  0001 C CNN
 F 4 "Taiyo Yuden" H 5025 8450 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 5025 8450 50  0001 C CNN "PartNo"
+F 6 "C52923" H 5025 8450 50  0001 C CNN "LCSC"
 	1    5025 8450
 	1    0    0    -1  
 $EndComp
@@ -167,6 +172,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 5463 8300 50  
 F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 5425 8450 50  0001 C CNN
 F 4 "Taiyo Yuden" H 5425 8450 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 5425 8450 50  0001 C CNN "PartNo"
+F 6 "C52923" H 5425 8450 50  0001 C CNN "LCSC"
 	1    5425 8450
 	1    0    0    -1  
 $EndComp
@@ -186,6 +192,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 5863 8300 50  
 F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 5825 8450 50  0001 C CNN
 F 4 "Taiyo Yuden" H 5825 8450 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 5825 8450 50  0001 C CNN "PartNo"
+F 6 "C52923" H 5825 8450 50  0001 C CNN "LCSC"
 	1    5825 8450
 	1    0    0    -1  
 $EndComp
@@ -205,6 +212,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 6263 8300 50  
 F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 6225 8450 50  0001 C CNN
 F 4 "Taiyo Yuden" H 6225 8450 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 6225 8450 50  0001 C CNN "PartNo"
+F 6 "C52923" H 6225 8450 50  0001 C CNN "LCSC"
 	1    6225 8450
 	1    0    0    -1  
 $EndComp
@@ -224,6 +232,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 6688 8300 50  
 F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 6650 8450 50  0001 C CNN
 F 4 "Taiyo Yuden" H 6650 8450 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 6650 8450 50  0001 C CNN "PartNo"
+F 6 "C52923" H 6650 8450 50  0001 C CNN "LCSC"
 	1    6650 8450
 	1    0    0    -1  
 $EndComp
@@ -277,6 +286,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 8538 8275 50  
 F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 8500 8425 50  0001 C CNN
 F 4 "Taiyo Yuden" H 8500 8425 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 8500 8425 50  0001 C CNN "PartNo"
+F 6 "C52923" H 8500 8425 50  0001 C CNN "LCSC"
 	1    8500 8425
 	1    0    0    -1  
 $EndComp
@@ -317,6 +327,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 8938 8275 50  
 F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 8900 8425 50  0001 C CNN
 F 4 "Taiyo Yuden" H 8900 8425 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 8900 8425 50  0001 C CNN "PartNo"
+F 6 "C52923" H 8900 8425 50  0001 C CNN "LCSC"
 	1    8900 8425
 	1    0    0    -1  
 $EndComp
@@ -336,6 +347,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 9363 8275 50  
 F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 9325 8425 50  0001 C CNN
 F 4 "Taiyo Yuden" H 9325 8425 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 9325 8425 50  0001 C CNN "PartNo"
+F 6 "C52923" H 9325 8425 50  0001 C CNN "LCSC"
 	1    9325 8425
 	1    0    0    -1  
 $EndComp
@@ -355,6 +367,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 9763 8275 50  
 F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 9725 8425 50  0001 C CNN
 F 4 "Taiyo Yuden" H 9725 8425 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 9725 8425 50  0001 C CNN "PartNo"
+F 6 "C52923" H 9725 8425 50  0001 C CNN "LCSC"
 	1    9725 8425
 	1    0    0    -1  
 $EndComp
@@ -374,6 +387,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 10163 8275 50 
 F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 10125 8425 50  0001 C CNN
 F 4 "Taiyo Yuden" H 10125 8425 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 10125 8425 50  0001 C CNN "PartNo"
+F 6 "C52923" H 10125 8425 50  0001 C CNN "LCSC"
 	1    10125 8425
 	1    0    0    -1  
 $EndComp
@@ -393,6 +407,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 10563 8275 50 
 F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 10525 8425 50  0001 C CNN
 F 4 "Taiyo Yuden" H 10525 8425 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 10525 8425 50  0001 C CNN "PartNo"
+F 6 "C52923" H 10525 8425 50  0001 C CNN "LCSC"
 	1    10525 8425
 	1    0    0    -1  
 $EndComp
@@ -434,6 +449,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 12313 8275 50 
 F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 12275 8425 50  0001 C CNN
 F 4 "Taiyo Yuden" H 12275 8425 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 12275 8425 50  0001 C CNN "PartNo"
+F 6 "C52923" H 12275 8425 50  0001 C CNN "LCSC"
 	1    12275 8425
 	1    0    0    -1  
 $EndComp
@@ -474,6 +490,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 12713 8275 50 
 F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 12675 8425 50  0001 C CNN
 F 4 "Taiyo Yuden" H 12675 8425 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 12675 8425 50  0001 C CNN "PartNo"
+F 6 "C52923" H 12675 8425 50  0001 C CNN "LCSC"
 	1    12675 8425
 	1    0    0    -1  
 $EndComp
@@ -493,6 +510,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 13138 8275 50 
 F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 13100 8425 50  0001 C CNN
 F 4 "Taiyo Yuden" H 13100 8425 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 13100 8425 50  0001 C CNN "PartNo"
+F 6 "C52923" H 13100 8425 50  0001 C CNN "LCSC"
 	1    13100 8425
 	1    0    0    -1  
 $EndComp
@@ -512,6 +530,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 13538 8275 50 
 F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 13500 8425 50  0001 C CNN
 F 4 "Taiyo Yuden" H 13500 8425 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 13500 8425 50  0001 C CNN "PartNo"
+F 6 "C52923" H 13500 8425 50  0001 C CNN "LCSC"
 	1    13500 8425
 	1    0    0    -1  
 $EndComp
@@ -560,6 +579,7 @@ F 2 "Inductor_SMD:L_0201_0603Metric_Pad0.64x0.40mm_HandSolder" H 10575 2875 50  
 F 3 "https://www.mouser.co.uk/datasheet/2/281/JELF243B-0012-1633801.pdf" H 10575 2875 50  0001 C CNN
 F 4 "~" H 10575 2875 50  0001 C CNN "Mfr"
 F 5 "~" H 10575 2875 50  0001 C CNN "PartNo"
+F 6 "~" H 10575 2875 50  0001 C CNN "LCSC"
 	1    10575 2875
 	0    1    -1   0   
 $EndComp
@@ -575,6 +595,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 9663 3325 50  
 F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 9625 3475 50  0001 C CNN
 F 4 "Taiyo Yuden" H 9625 3475 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 9625 3475 50  0001 C CNN "PartNo"
+F 6 "C52923" H 9625 3475 50  0001 C CNN "LCSC"
 	1    9625 3475
 	-1   0    0    1   
 $EndComp
@@ -590,6 +611,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 10088 3325 50 
 F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 10050 3475 50  0001 C CNN
 F 4 "Taiyo Yuden" H 10050 3475 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 10050 3475 50  0001 C CNN "PartNo"
+F 6 "C52923" H 10050 3475 50  0001 C CNN "LCSC"
 	1    10050 3475
 	1    0    0    1   
 $EndComp
@@ -669,26 +691,13 @@ Wire Wire Line
 	10725 2875 11200 2875
 Wire Wire Line
 	9075 2875 9275 2875
-$Comp
-L Device:Jumper_NC_Small JP4
-U 1 1 5FDCA779
-P 9625 3075
-F 0 "JP4" V 9625 3300 50  0000 R CNN
-F 1 "Jumper_NC_Small" V 9670 3149 50  0001 L CNN
-F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm" H 9625 3075 50  0001 C CNN
-F 3 "~" H 9625 3075 50  0001 C CNN
-F 4 "~" H 9625 3075 50  0001 C CNN "Mfr"
-F 5 "~" H 9625 3075 50  0001 C CNN "PartNo"
-	1    9625 3075
-	0    -1   -1   0   
-$EndComp
 Wire Wire Line
-	9625 2975 9625 2875
+	9625 2925 9625 2875
 Connection ~ 9625 2875
 Wire Wire Line
 	9625 2875 10050 2875
 Wire Wire Line
-	9625 3175 9625 3275
+	9625 3225 9625 3275
 Connection ~ 9625 3275
 Wire Wire Line
 	7275 3025 6900 3025
@@ -722,6 +731,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 5563 4225 50  
 F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 5525 4375 50  0001 C CNN
 F 4 "Taiyo Yuden" H 5525 4375 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 5525 4375 50  0001 C CNN "PartNo"
+F 6 "~" H 5525 4375 50  0001 C CNN "LCSC"
 	1    5525 4375
 	-1   0    0    1   
 $EndComp
@@ -744,6 +754,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 5563 4625 50  
 F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 5525 4775 50  0001 C CNN
 F 4 "Taiyo Yuden" H 5525 4775 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 5525 4775 50  0001 C CNN "PartNo"
+F 6 "C52923" H 5525 4775 50  0001 C CNN "LCSC"
 	1    5525 4775
 	-1   0    0    1   
 $EndComp
@@ -768,6 +779,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 6788 5575 50  
 F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 6750 5725 50  0001 C CNN
 F 4 "Taiyo Yuden" H 6750 5725 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 6750 5725 50  0001 C CNN "PartNo"
+F 6 "C52923" H 6750 5725 50  0001 C CNN "LCSC"
 	1    6750 5725
 	-1   0    0    -1  
 $EndComp
@@ -789,6 +801,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 5213 5550 50  
 F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 5175 5700 50  0001 C CNN
 F 4 "Taiyo Yuden" H 5175 5700 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 5175 5700 50  0001 C CNN "PartNo"
+F 6 "~" H 5175 5700 50  0001 C CNN "LCSC"
 	1    5175 5700
 	1    0    0    -1  
 $EndComp
@@ -811,6 +824,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 5563 5550 50  
 F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C87145.pdf" H 5525 5700 50  0001 C CNN
 F 4 "Taiyo Yuden" H 5525 5700 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 5525 5700 50  0001 C CNN "PartNo"
+F 6 "~" H 5525 5700 50  0001 C CNN "LCSC"
 	1    5525 5700
 	-1   0    0    1   
 $EndComp
@@ -945,7 +959,6 @@ Connection ~ 6100 4075
 Wire Wire Line
 	6100 4075 5525 4075
 Connection ~ 5175 5125
-NoConn ~ 9075 5525
 Wire Wire Line
 	7275 3525 6900 3525
 Wire Wire Line
@@ -1000,24 +1013,64 @@ F 2 "STM32MP151_LFBGA:BGA-354_19x19_16.0x16.0mm" H 8025 6325 50  0001 C CNN
 F 3 "https://www.st.com/resource/en/datasheet/stm32mp151c.pdf" H 8825 4575 50  0001 C CNN
 F 4 "~" H 8175 4425 50  0001 C CNN "Mfr"
 F 5 "~" H 8175 4425 50  0001 C CNN "PartNo"
+F 6 "~" H 8175 4425 50  0001 C CNN "LCSC"
 	4    8175 4425
 	1    0    0    -1  
 $EndComp
 $Comp
 L Connector:TestPoint TP1
 U 1 1 5FCFAF5B
-P 9275 5425
-F 0 "TP1" V 9275 5613 50  0000 L CNN
-F 1 "TestPoint" V 9320 5613 50  0001 L CNN
-F 2 "TestPoint:TestPoint_Pad_D1.0mm" H 9475 5425 50  0001 C CNN
-F 3 "~" H 9475 5425 50  0001 C CNN
-F 4 "~" H 9275 5425 50  0001 C CNN "Mfr"
-F 5 "~" H 9275 5425 50  0001 C CNN "PartNo"
-	1    9275 5425
+P 10175 5425
+F 0 "TP1" V 10175 5613 50  0000 L CNN
+F 1 "TestPoint" V 10220 5613 50  0001 L CNN
+F 2 "TestPoint:TestPoint_Pad_D1.0mm" H 10375 5425 50  0001 C CNN
+F 3 "~" H 10375 5425 50  0001 C CNN
+F 4 "~" H 10175 5425 50  0001 C CNN "Mfr"
+F 5 "~" H 10175 5425 50  0001 C CNN "PartNo"
+F 6 "~" H 10175 5425 50  0001 C CNN "LCSC"
+	1    10175 5425
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	9075 5425 9275 5425
+	9075 5425 9525 5425
 Text HLabel 4775 5125 0    50   Output ~ 0
 1V8_DETECT
+Wire Wire Line
+	9525 5425 9525 5825
+Wire Wire Line
+	9525 5825 10000 5825
+Connection ~ 9525 5425
+Wire Wire Line
+	9525 5425 10175 5425
+Text HLabel 10000 5825 2    50   Output ~ 0
+MPU_PWR_ON
+$Comp
+L Device:R R25
+U 1 1 60CAAF0A
+P 9625 3075
+F 0 "R25" H 9695 3121 50  0000 L CNN
+F 1 "0R" H 9695 3030 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" V 9555 3075 50  0001 C CNN
+F 3 "~" H 9625 3075 50  0001 C CNN
+	1    9625 3075
+	1    0    0    -1  
+$EndComp
+Text Notes 9575 3225 1    100  ~ 0
+DNF
+$Comp
+L Connector:TestPoint TP2
+U 1 1 611C0EB3
+P 9125 5525
+F 0 "TP2" V 9125 5713 50  0000 L CNN
+F 1 "TestPoint" V 9170 5713 50  0001 L CNN
+F 2 "TestPoint:TestPoint_Pad_D1.0mm" H 9325 5525 50  0001 C CNN
+F 3 "~" H 9325 5525 50  0001 C CNN
+F 4 "~" H 9125 5525 50  0001 C CNN "Mfr"
+F 5 "~" H 9125 5525 50  0001 C CNN "PartNo"
+F 6 "~" H 9125 5525 50  0001 C CNN "LCSC"
+	1    9125 5525
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	9125 5525 9075 5525
 $EndSCHEMATC

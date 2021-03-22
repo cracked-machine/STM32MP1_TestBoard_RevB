@@ -1,4 +1,6 @@
 (fp_lib_table
   (lib (name STM32MP151_LFBGA)(type KiCad)(uri ${KIPRJMOD}/../../KicadLibrary/footprint/BGA/STM32MP151_LFBGA.pretty)(options "")(descr ""))
   (lib (name Molex_SDIO)(type KiCad)(uri ${KIPRJMOD}/../../KicadLibrary/footprint/CONNECTORS/SIGNAL/Molex_SDIO/Molex_SDIO.pretty)(options "")(descr ""))
+  (lib (name MolexUSB_TypeC)(type KiCad)(uri ${KIPRJMOD}/../../KicadLibrary/footprint/CONNECTORS/USB/MolexUSB_TypeC.pretty)(options "")(descr ""))
+  (lib (name TinyNetTies)(type KiCad)(uri ${KIPRJMOD}/../../KicadLibrary/footprint/MISC/TinyNetTies.pretty)(options "")(descr ""))
 )

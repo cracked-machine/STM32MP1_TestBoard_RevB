@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 9 10
+Sheet 9 9
 Title ""
 Date ""
 Rev "RevB"
@@ -96,6 +96,7 @@ F 2 "Connector_USB:USB_Micro-B_Molex-105017-0001" H 4775 3150 50  0001 C CNN
 F 3 "~" H 4775 3150 50  0001 C CNN
 F 4 "~" H 4625 3200 50  0001 C CNN "Mfr"
 F 5 "~" H 4625 3200 50  0001 C CNN "PartNo"
+F 6 "~" H 4625 3200 50  0001 C CNN "LCSC"
 	1    4625 3200
 	1    0    0    -1  
 $EndComp
@@ -119,6 +120,7 @@ F 2 "Connector_USB:USB_Micro-B_Molex-105017-0001" H 4800 5000 50  0001 C CNN
 F 3 "~" H 4800 5000 50  0001 C CNN
 F 4 "~" H 4650 5050 50  0001 C CNN "Mfr"
 F 5 "~" H 4650 5050 50  0001 C CNN "PartNo"
+F 6 "~" H 4650 5050 50  0001 C CNN "LCSC"
 	1    4650 5050
 	1    0    0    -1  
 $EndComp
@@ -137,6 +139,7 @@ F 2 "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder" V 5130 4850 50  0
 F 3 "~" H 5200 4850 50  0001 C CNN
 F 4 "~" H 5200 4850 50  0001 C CNN "Mfr"
 F 5 "~" H 5200 4850 50  0001 C CNN "PartNo"
+F 6 "C25077" H 5200 4850 50  0001 C CNN "LCSC"
 	1    5200 4850
 	0    1    1    0   
 $EndComp
@@ -152,6 +155,7 @@ F 2 "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder" V 4580 5725 50  0
 F 3 "~" H 4650 5725 50  0001 C CNN
 F 4 "~" H 4650 5725 50  0001 C CNN "Mfr"
 F 5 "~" H 4650 5725 50  0001 C CNN "PartNo"
+F 6 "C25077" H 4650 5725 50  0001 C CNN "LCSC"
 	1    4650 5725
 	-1   0    0    1   
 $EndComp

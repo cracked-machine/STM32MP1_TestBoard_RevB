@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 5 10
+Sheet 5 9
 Title ""
 Date ""
 Rev "RevB"
@@ -27,6 +27,7 @@ F 2 "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD" H 5125 3750
 F 3 "https://docs.rs-online.com/75e3/0900766b8142184e.pdf" H 5125 3750 50  0001 C CNN
 F 4 "Amphenol ICC" H 5125 3750 50  0001 C CNN "Mfr"
 F 5 "20021121-00010C4LF" H 5125 3750 50  0001 C CNN "PartNo"
+F 6 "~" H 5125 3750 50  0001 C CNN "LCSC"
 	1    5125 3750
 	1    0    0    -1  
 $EndComp

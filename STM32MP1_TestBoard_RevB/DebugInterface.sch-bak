@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
-Sheet 4 10
+Sheet 4 9
 Title ""
 Date ""
 Rev "RevB"
@@ -69,6 +69,7 @@ F 2 "Button_Switch_SMD:Panasonic_EVQPUK_EVQPUB" H 7750 6500 50  0001 C CNN
 F 3 "https://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000C382.pdf" H 7750 6500 50  0001 C CNN
 F 4 "~" H 7750 6500 50  0001 C CNN "Mfr"
 F 5 "~" H 7750 6500 50  0001 C CNN "PartNo"
+F 6 "~" H 7750 6500 50  0001 C CNN "LCSC"
 	1    7750 6500
 	0    -1   1    0   
 $EndComp
@@ -103,6 +104,7 @@ F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 8388 6325 50  
 F 3 "~" H 8350 6475 50  0001 C CNN
 F 4 "~" H 8350 6475 50  0001 C CNN "Mfr"
 F 5 "~" H 8350 6475 50  0001 C CNN "PartNo"
+F 6 "C15195" H 8350 6475 50  0001 C CNN "LCSC"
 	1    8350 6475
 	-1   0    0    -1  
 $EndComp
@@ -140,34 +142,12 @@ F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 9113 6325 50  
 F 3 "~" H 9075 6475 50  0001 C CNN
 F 4 "~" H 9075 6475 50  0001 C CNN "Mfr"
 F 5 "~" H 9075 6475 50  0001 C CNN "PartNo"
+F 6 "C15195" H 9075 6475 50  0001 C CNN "LCSC"
 	1    9075 6475
 	-1   0    0    -1  
 $EndComp
 Wire Wire Line
-	8350 5850 9075 5850
-$Comp
-L Device:Jumper_NC_Small JP5
-U 1 1 607CA98E
-P 9075 6050
-F 0 "JP5" V 9075 6125 50  0000 L CNN
-F 1 "Jumper_NC_Small" V 9120 6124 50  0001 L CNN
-F 2 "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 9075 6050 50  0001 C CNN
-F 3 "~" H 9075 6050 50  0001 C CNN
-F 4 "~" H 9075 6050 50  0001 C CNN "Mfr"
-F 5 "~" H 9075 6050 50  0001 C CNN "PartNo"
-	1    9075 6050
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	9075 5950 9075 5850
-Connection ~ 9075 5850
-Wire Wire Line
-	9075 5850 9500 5850
-Wire Wire Line
-	9075 6150 9075 6250
-Wire Wire Line
 	9500 6250 9075 6250
-Connection ~ 9075 6250
 Wire Wire Line
 	9075 6250 9075 6325
 Wire Wire Line
@@ -203,7 +183,29 @@ F 2 "STM32MP151_LFBGA:BGA-354_19x19_16.0x16.0mm" H 10100 7550 50  0001 C CNN
 F 3 "https://www.st.com/resource/en/datasheet/stm32mp151c.pdf" H 10900 5800 50  0001 C CNN
 F 4 "~" H 10250 5650 50  0001 C CNN "Mfr"
 F 5 "~" H 10250 5650 50  0001 C CNN "PartNo"
+F 6 "~" H 10250 5650 50  0001 C CNN "LCSC"
 	5    10250 5650
 	1    0    0    -1  
 $EndComp
+$Comp
+L Device:R R24
+U 1 1 60917814
+P 9075 6050
+F 0 "R24" H 9145 6096 50  0000 L CNN
+F 1 "0R" H 9145 6005 50  0000 L CNN
+F 2 "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder" V 9005 6050 50  0001 C CNN
+F 3 "~" H 9075 6050 50  0001 C CNN
+	1    9075 6050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8350 5850 9075 5850
+Wire Wire Line
+	9075 6200 9075 6250
+Connection ~ 9075 6250
+Wire Wire Line
+	9075 5900 9075 5850
+Connection ~ 9075 5850
+Wire Wire Line
+	9075 5850 9500 5850
 $EndSCHEMATC

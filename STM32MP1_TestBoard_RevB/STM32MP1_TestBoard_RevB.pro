@@ -1,4 +1,4 @@
-update=Wednesday, 17 March 2021 at 08:47:10
+update=Monday, 22 March 2021 at 00:10:45
 version=1
 last_client=kicad
 [general]
@@ -35,6 +35,8 @@ TrackWidth4=0.15
 TrackWidth5=0.2
 TrackWidth6=0.4
 TrackWidth7=0.5
+TrackWidth8=1
+TrackWidth9=1.5
 ViaDiameter1=0.45
 ViaDrill1=0.2
 ViaDiameter2=0.45
@@ -247,7 +249,7 @@ dPairViaGap=0.25
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
-PlotDirectoryName=doc/schema/
+PlotDirectoryName=doc/schema/svg
 SubpartIdSeparator=0
 SubpartFirstId=65
 NetFmtName=Pcbnew
