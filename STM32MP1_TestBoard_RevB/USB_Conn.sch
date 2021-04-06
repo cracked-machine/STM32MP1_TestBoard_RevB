@@ -97,6 +97,8 @@ F 3 "~" H 4775 3150 50  0001 C CNN
 F 4 "~" H 4625 3200 50  0001 C CNN "Mfr"
 F 5 "~" H 4625 3200 50  0001 C CNN "PartNo"
 F 6 "~" H 4625 3200 50  0001 C CNN "LCSC"
+F 7 "~" H 4625 3200 50  0001 C CNN "Comment"
+F 8 "~" H 4625 3200 50  0001 C CNN "Mouser"
 	1    4625 3200
 	1    0    0    -1  
 $EndComp
@@ -121,6 +123,8 @@ F 3 "~" H 4800 5000 50  0001 C CNN
 F 4 "~" H 4650 5050 50  0001 C CNN "Mfr"
 F 5 "~" H 4650 5050 50  0001 C CNN "PartNo"
 F 6 "~" H 4650 5050 50  0001 C CNN "LCSC"
+F 7 "~" H 4650 5050 50  0001 C CNN "Comment"
+F 8 "~" H 4650 5050 50  0001 C CNN "Mouser"
 	1    4650 5050
 	1    0    0    -1  
 $EndComp
@@ -139,7 +143,9 @@ F 2 "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder" V 5130 4850 50  0
 F 3 "~" H 5200 4850 50  0001 C CNN
 F 4 "~" H 5200 4850 50  0001 C CNN "Mfr"
 F 5 "~" H 5200 4850 50  0001 C CNN "PartNo"
-F 6 "C25077" H 5200 4850 50  0001 C CNN "LCSC"
+F 6 "C25087" H 5200 4850 50  0001 C CNN "LCSC"
+F 7 "~" H 5200 4850 50  0001 C CNN "Comment"
+F 8 "~" H 5200 4850 50  0001 C CNN "Mouser"
 	1    5200 4850
 	0    1    1    0   
 $EndComp
@@ -155,7 +161,9 @@ F 2 "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder" V 4580 5725 50  0
 F 3 "~" H 4650 5725 50  0001 C CNN
 F 4 "~" H 4650 5725 50  0001 C CNN "Mfr"
 F 5 "~" H 4650 5725 50  0001 C CNN "PartNo"
-F 6 "C25077" H 4650 5725 50  0001 C CNN "LCSC"
+F 6 "C25087" H 4650 5725 50  0001 C CNN "LCSC"
+F 7 "~" H 4650 5725 50  0001 C CNN "Comment"
+F 8 "~" H 4650 5725 50  0001 C CNN "Mouser"
 	1    4650 5725
 	-1   0    0    1   
 $EndComp

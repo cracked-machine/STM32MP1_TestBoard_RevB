@@ -28,6 +28,8 @@ F 3 "https://docs.rs-online.com/75e3/0900766b8142184e.pdf" H 5125 3750 50  0001 
 F 4 "Amphenol ICC" H 5125 3750 50  0001 C CNN "Mfr"
 F 5 "20021121-00010C4LF" H 5125 3750 50  0001 C CNN "PartNo"
 F 6 "~" H 5125 3750 50  0001 C CNN "LCSC"
+F 7 "~" H 5125 3750 50  0001 C CNN "Comment"
+F 8 "~" H 5125 3750 50  0001 C CNN "Mouser"
 	1    5125 3750
 	1    0    0    -1  
 $EndComp

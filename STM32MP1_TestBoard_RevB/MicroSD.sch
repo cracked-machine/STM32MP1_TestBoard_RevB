@@ -85,6 +85,8 @@ F 3 "~" H 4550 1725 50  0001 C CNN
 F 4 "~" H 4550 1725 50  0001 C CNN "Mfr"
 F 5 "~" H 4550 1725 50  0001 C CNN "PartNo"
 F 6 "C25792" H 4550 1725 50  0001 C CNN "LCSC"
+F 7 "~" H 4550 1725 50  0001 C CNN "Comment"
+F 8 "~" H 4550 1725 50  0001 C CNN "Mouser"
 	1    4550 1725
 	1    0    0    -1  
 $EndComp
@@ -105,6 +107,8 @@ F 3 "~" H 4925 1725 50  0001 C CNN
 F 4 "~" H 4925 1725 50  0001 C CNN "Mfr"
 F 5 "~" H 4925 1725 50  0001 C CNN "PartNo"
 F 6 "C25792" H 4925 1725 50  0001 C CNN "LCSC"
+F 7 "~" H 4925 1725 50  0001 C CNN "Comment"
+F 8 "~" H 4925 1725 50  0001 C CNN "Mouser"
 	1    4925 1725
 	1    0    0    -1  
 $EndComp
@@ -125,6 +129,8 @@ F 3 "~" H 5275 1725 50  0001 C CNN
 F 4 "~" H 5275 1725 50  0001 C CNN "Mfr"
 F 5 "~" H 5275 1725 50  0001 C CNN "PartNo"
 F 6 "C25792" H 5275 1725 50  0001 C CNN "LCSC"
+F 7 "~" H 5275 1725 50  0001 C CNN "Comment"
+F 8 "~" H 5275 1725 50  0001 C CNN "Mouser"
 	1    5275 1725
 	1    0    0    -1  
 $EndComp
@@ -145,6 +151,8 @@ F 3 "~" H 5625 1725 50  0001 C CNN
 F 4 "~" H 5625 1725 50  0001 C CNN "Mfr"
 F 5 "~" H 5625 1725 50  0001 C CNN "PartNo"
 F 6 "C25792" H 5625 1725 50  0001 C CNN "LCSC"
+F 7 "~" H 5625 1725 50  0001 C CNN "Comment"
+F 8 "~" H 5625 1725 50  0001 C CNN "Mouser"
 	1    5625 1725
 	1    0    0    -1  
 $EndComp
@@ -165,6 +173,8 @@ F 3 "~" H 5975 1725 50  0001 C CNN
 F 4 "~" H 5975 1725 50  0001 C CNN "Mfr"
 F 5 "~" H 5975 1725 50  0001 C CNN "PartNo"
 F 6 "C25792" H 5975 1725 50  0001 C CNN "LCSC"
+F 7 "~" H 5975 1725 50  0001 C CNN "Comment"
+F 8 "~" H 5975 1725 50  0001 C CNN "Mouser"
 	1    5975 1725
 	1    0    0    -1  
 $EndComp
@@ -236,6 +246,11 @@ F 0 "J10" V 6904 5305 50  0000 L CNN
 F 1 "Micro_SD_Card_Det" V 6995 5305 50  0000 L CNN
 F 2 "Connector_Card:microSD_HC_Molex_104031-0811" H 9050 5325 50  0001 C CNN
 F 3 "https://www.molex.com/webdocs/datasheets/pdf/en-us/1040310811_MEMORY_CARD_SOCKET.pdf" H 7000 4725 50  0001 C CNN
+F 4 "~" H 7000 4625 50  0001 C CNN "Comment"
+F 5 "~" H 7000 4625 50  0001 C CNN "LCSC"
+F 6 "Molex" H 7000 4625 50  0001 C CNN "Mfr"
+F 7 "538-104031-0811 " H 7000 4625 50  0001 C CNN "Mouser"
+F 8 "104031-0811 " H 7000 4625 50  0001 C CNN "PartNo"
 	1    7000 4625
 	0    1    1    0   
 $EndComp

@@ -39,6 +39,8 @@ F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C8
 F 4 "Taiyo Yuden" H 6500 5725 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 6500 5725 50  0001 C CNN "PartNo"
 F 6 "C52923" H 6500 5725 50  0001 C CNN "LCSC"
+F 7 "~" H 6500 5725 50  0001 C CNN "Comment"
+F 8 "~" H 6500 5725 50  0001 C CNN "Mouser"
 	1    6500 5725
 	1    0    0    -1  
 $EndComp
@@ -72,6 +74,8 @@ F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C8
 F 4 "Taiyo Yuden" H 3800 8450 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 3800 8450 50  0001 C CNN "PartNo"
 F 6 "C52923" H 3800 8450 50  0001 C CNN "LCSC"
+F 7 "~" H 3800 8450 50  0001 C CNN "Comment"
+F 8 "~" H 3800 8450 50  0001 C CNN "Mouser"
 	1    3800 8450
 	1    0    0    -1  
 $EndComp
@@ -113,6 +117,8 @@ F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C8
 F 4 "Taiyo Yuden" H 4200 8450 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 4200 8450 50  0001 C CNN "PartNo"
 F 6 "C52923" H 4200 8450 50  0001 C CNN "LCSC"
+F 7 "~" H 4200 8450 50  0001 C CNN "Comment"
+F 8 "~" H 4200 8450 50  0001 C CNN "Mouser"
 	1    4200 8450
 	1    0    0    -1  
 $EndComp
@@ -133,6 +139,8 @@ F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C8
 F 4 "Taiyo Yuden" H 4625 8450 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 4625 8450 50  0001 C CNN "PartNo"
 F 6 "C52923" H 4625 8450 50  0001 C CNN "LCSC"
+F 7 "~" H 4625 8450 50  0001 C CNN "Comment"
+F 8 "~" H 4625 8450 50  0001 C CNN "Mouser"
 	1    4625 8450
 	1    0    0    -1  
 $EndComp
@@ -153,6 +161,8 @@ F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C8
 F 4 "Taiyo Yuden" H 5025 8450 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 5025 8450 50  0001 C CNN "PartNo"
 F 6 "C52923" H 5025 8450 50  0001 C CNN "LCSC"
+F 7 "~" H 5025 8450 50  0001 C CNN "Comment"
+F 8 "~" H 5025 8450 50  0001 C CNN "Mouser"
 	1    5025 8450
 	1    0    0    -1  
 $EndComp
@@ -173,6 +183,8 @@ F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C8
 F 4 "Taiyo Yuden" H 5425 8450 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 5425 8450 50  0001 C CNN "PartNo"
 F 6 "C52923" H 5425 8450 50  0001 C CNN "LCSC"
+F 7 "~" H 5425 8450 50  0001 C CNN "Comment"
+F 8 "~" H 5425 8450 50  0001 C CNN "Mouser"
 	1    5425 8450
 	1    0    0    -1  
 $EndComp
@@ -193,6 +205,8 @@ F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C8
 F 4 "Taiyo Yuden" H 5825 8450 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 5825 8450 50  0001 C CNN "PartNo"
 F 6 "C52923" H 5825 8450 50  0001 C CNN "LCSC"
+F 7 "~" H 5825 8450 50  0001 C CNN "Comment"
+F 8 "~" H 5825 8450 50  0001 C CNN "Mouser"
 	1    5825 8450
 	1    0    0    -1  
 $EndComp
@@ -213,6 +227,8 @@ F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C8
 F 4 "Taiyo Yuden" H 6225 8450 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 6225 8450 50  0001 C CNN "PartNo"
 F 6 "C52923" H 6225 8450 50  0001 C CNN "LCSC"
+F 7 "~" H 6225 8450 50  0001 C CNN "Comment"
+F 8 "~" H 6225 8450 50  0001 C CNN "Mouser"
 	1    6225 8450
 	1    0    0    -1  
 $EndComp
@@ -233,6 +249,8 @@ F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C8
 F 4 "Taiyo Yuden" H 6650 8450 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 6650 8450 50  0001 C CNN "PartNo"
 F 6 "C52923" H 6650 8450 50  0001 C CNN "LCSC"
+F 7 "~" H 6650 8450 50  0001 C CNN "Comment"
+F 8 "~" H 6650 8450 50  0001 C CNN "Mouser"
 	1    6650 8450
 	1    0    0    -1  
 $EndComp
@@ -287,6 +305,8 @@ F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C8
 F 4 "Taiyo Yuden" H 8500 8425 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 8500 8425 50  0001 C CNN "PartNo"
 F 6 "C52923" H 8500 8425 50  0001 C CNN "LCSC"
+F 7 "~" H 8500 8425 50  0001 C CNN "Comment"
+F 8 "~" H 8500 8425 50  0001 C CNN "Mouser"
 	1    8500 8425
 	1    0    0    -1  
 $EndComp
@@ -328,6 +348,8 @@ F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C8
 F 4 "Taiyo Yuden" H 8900 8425 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 8900 8425 50  0001 C CNN "PartNo"
 F 6 "C52923" H 8900 8425 50  0001 C CNN "LCSC"
+F 7 "~" H 8900 8425 50  0001 C CNN "Comment"
+F 8 "~" H 8900 8425 50  0001 C CNN "Mouser"
 	1    8900 8425
 	1    0    0    -1  
 $EndComp
@@ -348,6 +370,8 @@ F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C8
 F 4 "Taiyo Yuden" H 9325 8425 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 9325 8425 50  0001 C CNN "PartNo"
 F 6 "C52923" H 9325 8425 50  0001 C CNN "LCSC"
+F 7 "~" H 9325 8425 50  0001 C CNN "Comment"
+F 8 "~" H 9325 8425 50  0001 C CNN "Mouser"
 	1    9325 8425
 	1    0    0    -1  
 $EndComp
@@ -368,6 +392,8 @@ F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C8
 F 4 "Taiyo Yuden" H 9725 8425 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 9725 8425 50  0001 C CNN "PartNo"
 F 6 "C52923" H 9725 8425 50  0001 C CNN "LCSC"
+F 7 "~" H 9725 8425 50  0001 C CNN "Comment"
+F 8 "~" H 9725 8425 50  0001 C CNN "Mouser"
 	1    9725 8425
 	1    0    0    -1  
 $EndComp
@@ -388,6 +414,8 @@ F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C8
 F 4 "Taiyo Yuden" H 10125 8425 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 10125 8425 50  0001 C CNN "PartNo"
 F 6 "C52923" H 10125 8425 50  0001 C CNN "LCSC"
+F 7 "~" H 10125 8425 50  0001 C CNN "Comment"
+F 8 "~" H 10125 8425 50  0001 C CNN "Mouser"
 	1    10125 8425
 	1    0    0    -1  
 $EndComp
@@ -408,6 +436,8 @@ F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C8
 F 4 "Taiyo Yuden" H 10525 8425 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 10525 8425 50  0001 C CNN "PartNo"
 F 6 "C52923" H 10525 8425 50  0001 C CNN "LCSC"
+F 7 "~" H 10525 8425 50  0001 C CNN "Comment"
+F 8 "~" H 10525 8425 50  0001 C CNN "Mouser"
 	1    10525 8425
 	1    0    0    -1  
 $EndComp
@@ -450,6 +480,8 @@ F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C8
 F 4 "Taiyo Yuden" H 12275 8425 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 12275 8425 50  0001 C CNN "PartNo"
 F 6 "C52923" H 12275 8425 50  0001 C CNN "LCSC"
+F 7 "~" H 12275 8425 50  0001 C CNN "Comment"
+F 8 "~" H 12275 8425 50  0001 C CNN "Mouser"
 	1    12275 8425
 	1    0    0    -1  
 $EndComp
@@ -491,6 +523,8 @@ F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C8
 F 4 "Taiyo Yuden" H 12675 8425 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 12675 8425 50  0001 C CNN "PartNo"
 F 6 "C52923" H 12675 8425 50  0001 C CNN "LCSC"
+F 7 "~" H 12675 8425 50  0001 C CNN "Comment"
+F 8 "~" H 12675 8425 50  0001 C CNN "Mouser"
 	1    12675 8425
 	1    0    0    -1  
 $EndComp
@@ -511,6 +545,8 @@ F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C8
 F 4 "Taiyo Yuden" H 13100 8425 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 13100 8425 50  0001 C CNN "PartNo"
 F 6 "C52923" H 13100 8425 50  0001 C CNN "LCSC"
+F 7 "~" H 13100 8425 50  0001 C CNN "Comment"
+F 8 "~" H 13100 8425 50  0001 C CNN "Mouser"
 	1    13100 8425
 	1    0    0    -1  
 $EndComp
@@ -531,6 +567,8 @@ F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C8
 F 4 "Taiyo Yuden" H 13500 8425 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 13500 8425 50  0001 C CNN "PartNo"
 F 6 "C52923" H 13500 8425 50  0001 C CNN "LCSC"
+F 7 "~" H 13500 8425 50  0001 C CNN "Comment"
+F 8 "~" H 13500 8425 50  0001 C CNN "Mouser"
 	1    13500 8425
 	1    0    0    -1  
 $EndComp
@@ -580,6 +618,8 @@ F 3 "https://www.mouser.co.uk/datasheet/2/281/JELF243B-0012-1633801.pdf" H 10575
 F 4 "~" H 10575 2875 50  0001 C CNN "Mfr"
 F 5 "~" H 10575 2875 50  0001 C CNN "PartNo"
 F 6 "~" H 10575 2875 50  0001 C CNN "LCSC"
+F 7 "~" H 10575 2875 50  0001 C CNN "Comment"
+F 8 "81-LQM18FN4R7M00D " H 10575 2875 50  0001 C CNN "Mouser"
 	1    10575 2875
 	0    1    -1   0   
 $EndComp
@@ -596,6 +636,8 @@ F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C8
 F 4 "Taiyo Yuden" H 9625 3475 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 9625 3475 50  0001 C CNN "PartNo"
 F 6 "C52923" H 9625 3475 50  0001 C CNN "LCSC"
+F 7 "~" H 9625 3475 50  0001 C CNN "Comment"
+F 8 "~" H 9625 3475 50  0001 C CNN "Mouser"
 	1    9625 3475
 	-1   0    0    1   
 $EndComp
@@ -612,28 +654,20 @@ F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C8
 F 4 "Taiyo Yuden" H 10050 3475 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 10050 3475 50  0001 C CNN "PartNo"
 F 6 "C52923" H 10050 3475 50  0001 C CNN "LCSC"
+F 7 "~" H 10050 3475 50  0001 C CNN "Comment"
+F 8 "~" H 10050 3475 50  0001 C CNN "Mouser"
 	1    10050 3475
 	1    0    0    1   
 $EndComp
-Connection ~ 6900 2825
-Wire Wire Line
-	7275 2825 6900 2825
 Wire Wire Line
 	9075 4475 11550 4475
 Wire Wire Line
-	7275 3225 6900 3225
+	7275 3225 6275 3225
 Wire Wire Line
-	6900 2825 6900 2925
+	7275 3125 6275 3125
+Connection ~ 6275 3125
 Wire Wire Line
-	7275 3125 6900 3125
-Connection ~ 6900 3125
-Wire Wire Line
-	6900 3125 6900 3225
-Wire Wire Line
-	7275 2925 6900 2925
-Connection ~ 6900 2925
-Wire Wire Line
-	6900 2925 6900 3025
+	6275 3125 6275 3225
 Wire Wire Line
 	10525 8575 10525 8725
 $Comp
@@ -700,15 +734,15 @@ Wire Wire Line
 	9625 3225 9625 3275
 Connection ~ 9625 3275
 Wire Wire Line
-	7275 3025 6900 3025
-Connection ~ 6900 3025
+	7275 3025 6275 3025
+Connection ~ 6275 3025
 Wire Wire Line
-	6900 3025 6900 3125
+	6275 3025 6275 3125
 Wire Wire Line
-	7275 3325 6900 3325
+	7275 3325 6275 3325
 Wire Wire Line
-	6900 3325 6900 3225
-Connection ~ 6900 3225
+	6275 3325 6275 3225
+Connection ~ 6275 3225
 Wire Wire Line
 	7275 3875 6900 3875
 Wire Wire Line
@@ -732,6 +766,8 @@ F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C8
 F 4 "Taiyo Yuden" H 5525 4375 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 5525 4375 50  0001 C CNN "PartNo"
 F 6 "~" H 5525 4375 50  0001 C CNN "LCSC"
+F 7 "~" H 5525 4375 50  0001 C CNN "Comment"
+F 8 "~" H 5525 4375 50  0001 C CNN "Mouser"
 	1    5525 4375
 	-1   0    0    1   
 $EndComp
@@ -755,6 +791,8 @@ F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C8
 F 4 "Taiyo Yuden" H 5525 4775 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 5525 4775 50  0001 C CNN "PartNo"
 F 6 "C52923" H 5525 4775 50  0001 C CNN "LCSC"
+F 7 "~" H 5525 4775 50  0001 C CNN "Comment"
+F 8 "~" H 5525 4775 50  0001 C CNN "Mouser"
 	1    5525 4775
 	-1   0    0    1   
 $EndComp
@@ -780,6 +818,8 @@ F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C8
 F 4 "Taiyo Yuden" H 6750 5725 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 6750 5725 50  0001 C CNN "PartNo"
 F 6 "C52923" H 6750 5725 50  0001 C CNN "LCSC"
+F 7 "~" H 6750 5725 50  0001 C CNN "Comment"
+F 8 "~" H 6750 5725 50  0001 C CNN "Mouser"
 	1    6750 5725
 	-1   0    0    -1  
 $EndComp
@@ -802,6 +842,8 @@ F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C8
 F 4 "Taiyo Yuden" H 5175 5700 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 5175 5700 50  0001 C CNN "PartNo"
 F 6 "~" H 5175 5700 50  0001 C CNN "LCSC"
+F 7 "~" H 5175 5700 50  0001 C CNN "Comment"
+F 8 "~" H 5175 5700 50  0001 C CNN "Mouser"
 	1    5175 5700
 	1    0    0    -1  
 $EndComp
@@ -825,6 +867,8 @@ F 3 "https://datasheet.lcsc.com/szlcsc/1810201223_Taiyo-Yuden-LMK105BJ105KV-F_C8
 F 4 "Taiyo Yuden" H 5525 5700 50  0001 C CNN "Mfr"
 F 5 "LMK105BJ105KV-F" H 5525 5700 50  0001 C CNN "PartNo"
 F 6 "~" H 5525 5700 50  0001 C CNN "LCSC"
+F 7 "~" H 5525 5700 50  0001 C CNN "Comment"
+F 8 "~" H 5525 5700 50  0001 C CNN "Mouser"
 	1    5525 5700
 	-1   0    0    1   
 $EndComp
@@ -960,15 +1004,15 @@ Wire Wire Line
 	6100 4075 5525 4075
 Connection ~ 5175 5125
 Wire Wire Line
-	7275 3525 6900 3525
+	7275 3525 6275 3525
 Wire Wire Line
-	6900 3525 6900 3425
-Connection ~ 6900 3325
+	6275 3525 6275 3425
+Connection ~ 6275 3325
 Wire Wire Line
-	6900 3425 7275 3425
-Connection ~ 6900 3425
+	6275 3425 7275 3425
+Connection ~ 6275 3425
 Wire Wire Line
-	6900 3425 6900 3325
+	6275 3425 6275 3325
 Wire Wire Line
 	7275 3775 6900 3775
 Connection ~ 6900 3775
@@ -994,7 +1038,7 @@ Wire Wire Line
 Text HLabel 4725 2825 0    50   Input ~ 0
 3.3V_VDD
 Wire Wire Line
-	4725 2825 6900 2825
+	4725 2825 6275 2825
 Text HLabel 11200 2875 2    50   Input ~ 0
 3.3V_VDD
 Text HLabel 3350 8200 0    50   Input ~ 0
@@ -1014,6 +1058,8 @@ F 3 "https://www.st.com/resource/en/datasheet/stm32mp151c.pdf" H 8825 4575 50  0
 F 4 "~" H 8175 4425 50  0001 C CNN "Mfr"
 F 5 "~" H 8175 4425 50  0001 C CNN "PartNo"
 F 6 "~" H 8175 4425 50  0001 C CNN "LCSC"
+F 7 "~" H 8175 4425 50  0001 C CNN "Comment"
+F 8 "~" H 8175 4425 50  0001 C CNN "Mouser"
 	4    8175 4425
 	1    0    0    -1  
 $EndComp
@@ -1028,6 +1074,8 @@ F 3 "~" H 10375 5425 50  0001 C CNN
 F 4 "~" H 10175 5425 50  0001 C CNN "Mfr"
 F 5 "~" H 10175 5425 50  0001 C CNN "PartNo"
 F 6 "~" H 10175 5425 50  0001 C CNN "LCSC"
+F 7 "~" H 10175 5425 50  0001 C CNN "Comment"
+F 8 "~" H 10175 5425 50  0001 C CNN "Mouser"
 	1    10175 5425
 	0    1    1    0   
 $EndComp
@@ -1052,6 +1100,11 @@ F 0 "R25" H 9695 3121 50  0000 L CNN
 F 1 "0R" H 9695 3030 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" V 9555 3075 50  0001 C CNN
 F 3 "~" H 9625 3075 50  0001 C CNN
+F 4 "~" H 9625 3075 50  0001 C CNN "Comment"
+F 5 "C25087" H 9625 3075 50  0001 C CNN "LCSC"
+F 6 "~" H 9625 3075 50  0001 C CNN "Mfr"
+F 7 "~" H 9625 3075 50  0001 C CNN "Mouser"
+F 8 "~" H 9625 3075 50  0001 C CNN "PartNo"
 	1    9625 3075
 	1    0    0    -1  
 $EndComp
@@ -1068,9 +1121,96 @@ F 3 "~" H 9325 5525 50  0001 C CNN
 F 4 "~" H 9125 5525 50  0001 C CNN "Mfr"
 F 5 "~" H 9125 5525 50  0001 C CNN "PartNo"
 F 6 "~" H 9125 5525 50  0001 C CNN "LCSC"
+F 7 "~" H 9125 5525 50  0001 C CNN "Comment"
+F 8 "~" H 9125 5525 50  0001 C CNN "Mouser"
 	1    9125 5525
 	0    1    1    0   
 $EndComp
 Wire Wire Line
 	9125 5525 9075 5525
+Connection ~ 6275 2825
+Wire Wire Line
+	6275 2825 7275 2825
+Wire Wire Line
+	6275 2825 6275 3025
+Wire Wire Line
+	7275 2925 6750 2925
+Text Label 6750 2925 0    50   ~ 0
+VBAT
+Wire Wire Line
+	1750 2975 2275 2975
+Text Label 2625 2975 2    50   ~ 0
+VBAT
+$Comp
+L Connector_Generic:Conn_01x02 J12
+U 1 1 60611160
+P 1550 2975
+F 0 "J12" H 1468 3192 50  0000 C CNN
+F 1 "Conn_01x02" H 1468 3101 50  0000 C CNN
+F 2 "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" H 1550 2975 50  0001 C CNN
+F 3 "~" H 1550 2975 50  0001 C CNN
+F 4 "~" H 1550 2975 50  0001 C CNN "Comment"
+F 5 "~" H 1550 2975 50  0001 C CNN "LCSC"
+F 6 "~" H 1550 2975 50  0001 C CNN "Mfr"
+F 7 "~" H 1550 2975 50  0001 C CNN "Mouser"
+F 8 "~" H 1550 2975 50  0001 C CNN "PartNo"
+	1    1550 2975
+	-1   0    0    -1  
+$EndComp
+$Comp
+L power:GNDS #PWR04
+U 1 1 60619712
+P 1900 3700
+F 0 "#PWR04" H 1900 3450 50  0001 C CNN
+F 1 "GNDS" H 1905 3527 50  0000 C CNN
+F 2 "" H 1900 3700 50  0001 C CNN
+F 3 "" H 1900 3700 50  0001 C CNN
+	1    1900 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 60619CD4
+P 2275 3275
+AR Path="/60619CD4" Ref="C?"  Part="1" 
+AR Path="/6044C48A/60619CD4" Ref="C38"  Part="1" 
+F 0 "C38" H 2450 3225 50  0000 L CNN
+F 1 "100nF" H 2425 3325 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" H 2313 3125 50  0001 C CNN
+F 3 "~" H 2275 3275 50  0001 C CNN
+F 4 "~" H 2275 3275 50  0001 C CNN "Mfr"
+F 5 "~" H 2275 3275 50  0001 C CNN "PartNo"
+F 6 "C1525" H 2275 3275 50  0001 C CNN "LCSC"
+F 7 "~" H 2275 3275 50  0001 C CNN "Comment"
+F 8 "~" H 2275 3275 50  0001 C CNN "Mouser"
+	1    2275 3275
+	1    0    0    1   
+$EndComp
+Wire Wire Line
+	1750 3075 1900 3075
+Wire Wire Line
+	1900 3075 1900 3525
+Wire Wire Line
+	2275 3125 2275 2975
+Connection ~ 2275 2975
+Wire Wire Line
+	2275 2975 2625 2975
+Wire Wire Line
+	2275 3425 2275 3525
+Wire Wire Line
+	2275 3525 1900 3525
+Connection ~ 1900 3525
+Wire Wire Line
+	1900 3525 1900 3700
+$Comp
+L power:PWR_FLAG #FLG0111
+U 1 1 60646448
+P 2275 2975
+F 0 "#FLG0111" H 2275 3050 50  0001 C CNN
+F 1 "PWR_FLAG" H 2275 3148 50  0000 C CNN
+F 2 "" H 2275 2975 50  0001 C CNN
+F 3 "~" H 2275 2975 50  0001 C CNN
+	1    2275 2975
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

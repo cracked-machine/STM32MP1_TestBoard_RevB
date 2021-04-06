@@ -70,6 +70,8 @@ F 3 "https://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000C382.pdf"
 F 4 "~" H 7750 6500 50  0001 C CNN "Mfr"
 F 5 "~" H 7750 6500 50  0001 C CNN "PartNo"
 F 6 "~" H 7750 6500 50  0001 C CNN "LCSC"
+F 7 "~" H 7750 6500 50  0001 C CNN "Comment"
+F 8 "~" H 7750 6500 50  0001 C CNN "Mouser"
 	1    7750 6500
 	0    -1   1    0   
 $EndComp
@@ -105,6 +107,8 @@ F 3 "~" H 8350 6475 50  0001 C CNN
 F 4 "~" H 8350 6475 50  0001 C CNN "Mfr"
 F 5 "~" H 8350 6475 50  0001 C CNN "PartNo"
 F 6 "C15195" H 8350 6475 50  0001 C CNN "LCSC"
+F 7 "~" H 8350 6475 50  0001 C CNN "Comment"
+F 8 "~" H 8350 6475 50  0001 C CNN "Mouser"
 	1    8350 6475
 	-1   0    0    -1  
 $EndComp
@@ -143,6 +147,8 @@ F 3 "~" H 9075 6475 50  0001 C CNN
 F 4 "~" H 9075 6475 50  0001 C CNN "Mfr"
 F 5 "~" H 9075 6475 50  0001 C CNN "PartNo"
 F 6 "C15195" H 9075 6475 50  0001 C CNN "LCSC"
+F 7 "~" H 9075 6475 50  0001 C CNN "Comment"
+F 8 "~" H 9075 6475 50  0001 C CNN "Mouser"
 	1    9075 6475
 	-1   0    0    -1  
 $EndComp
@@ -184,6 +190,8 @@ F 3 "https://www.st.com/resource/en/datasheet/stm32mp151c.pdf" H 10900 5800 50  
 F 4 "~" H 10250 5650 50  0001 C CNN "Mfr"
 F 5 "~" H 10250 5650 50  0001 C CNN "PartNo"
 F 6 "~" H 10250 5650 50  0001 C CNN "LCSC"
+F 7 "~" H 10250 5650 50  0001 C CNN "Comment"
+F 8 "~" H 10250 5650 50  0001 C CNN "Mouser"
 	5    10250 5650
 	1    0    0    -1  
 $EndComp
@@ -195,6 +203,9 @@ F 0 "R24" H 9145 6096 50  0000 L CNN
 F 1 "0R" H 9145 6005 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder" V 9005 6050 50  0001 C CNN
 F 3 "~" H 9075 6050 50  0001 C CNN
+F 4 "~" H 9075 6050 50  0001 C CNN "Comment"
+F 5 "~" H 9075 6050 50  0001 C CNN "Mouser"
+F 6 "C25087" H 9075 6050 50  0001 C CNN "LCSC"
 	1    9075 6050
 	1    0    0    -1  
 $EndComp

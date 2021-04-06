@@ -26,6 +26,8 @@ F 3 "https://www.mouser.co.uk/datasheet/2/671/4Gb_DDR3L-1283964.pdf" H 7625 7025
 F 4 "Micron" H 7675 4325 50  0001 C CNN "Mfr"
 F 5 "MT41K256M16TW-107" H 7675 4325 50  0001 C CNN "PartNo"
 F 6 "~" H 7675 4325 50  0001 C CNN "LCSC"
+F 7 "~" H 7675 4325 50  0001 C CNN "Comment"
+F 8 "~" H 7675 4325 50  0001 C CNN "Mouser"
 	1    7675 4325
 	1    0    0    -1  
 $EndComp
@@ -133,6 +135,8 @@ F 3 "~" H 1500 8800 50  0001 C CNN
 F 4 "~" H 1500 8800 50  0001 C CNN "Mfr"
 F 5 "~" H 1500 8800 50  0001 C CNN "PartNo"
 F 6 "C1525" H 1500 8800 50  0001 C CNN "LCSC"
+F 7 "~" H 1500 8800 50  0001 C CNN "Comment"
+F 8 "~" H 1500 8800 50  0001 C CNN "Mouser"
 	1    1500 8800
 	1    0    0    -1  
 $EndComp
@@ -164,6 +168,8 @@ F 3 "~" H 5750 6100 50  0001 C CNN
 F 4 "~" H 5750 6100 50  0001 C CNN "Mfr"
 F 5 "~" H 5750 6100 50  0001 C CNN "PartNo"
 F 6 "~" H 5750 6100 50  0001 C CNN "LCSC"
+F 7 "~" H 5750 6100 50  0001 C CNN "Comment"
+F 8 "~" H 5750 6100 50  0001 C CNN "Mouser"
 	1    5750 6100
 	1    0    0    -1  
 $EndComp
@@ -442,6 +448,8 @@ F 3 "~" H 8750 6075 50  0001 C CNN
 F 4 "~" H 8750 6075 50  0001 C CNN "Mfr"
 F 5 "~" H 8750 6075 50  0001 C CNN "PartNo"
 F 6 "~" H 8750 6075 50  0001 C CNN "LCSC"
+F 7 "~" H 8750 6075 50  0001 C CNN "Comment"
+F 8 "~" H 8750 6075 50  0001 C CNN "Mouser"
 	1    8750 6075
 	1    0    0    -1  
 $EndComp
@@ -462,6 +470,8 @@ F 3 "~" H 2325 8800 50  0001 C CNN
 F 4 "~" H 2325 8800 50  0001 C CNN "Mfr"
 F 5 "~" H 2325 8800 50  0001 C CNN "PartNo"
 F 6 "C25744" H 2325 8800 50  0001 C CNN "LCSC"
+F 7 "~" H 2325 8800 50  0001 C CNN "Comment"
+F 8 "~" H 2325 8800 50  0001 C CNN "Mouser"
 	1    2325 8800
 	1    0    0    -1  
 $EndComp
@@ -491,6 +501,8 @@ F 3 "~" H 6050 6100 50  0001 C CNN
 F 4 "~" H 6050 6100 50  0001 C CNN "Mfr"
 F 5 "~" H 6050 6100 50  0001 C CNN "PartNo"
 F 6 "C25744" H 6050 6100 50  0001 C CNN "LCSC"
+F 7 "~" H 6050 6100 50  0001 C CNN "Comment"
+F 8 "~" H 6050 6100 50  0001 C CNN "Mouser"
 	1    6050 6100
 	1    0    0    -1  
 $EndComp
@@ -529,6 +541,8 @@ F 3 "~" H 4600 8050 50  0001 C CNN
 F 4 "~" H 4600 8050 50  0001 C CNN "Mfr"
 F 5 "~" H 4600 8050 50  0001 C CNN "PartNo"
 F 6 "C25076" H 4600 8050 50  0001 C CNN "LCSC"
+F 7 "~" H 4600 8050 50  0001 C CNN "Comment"
+F 8 "~" H 4600 8050 50  0001 C CNN "Mouser"
 	1    4600 8050
 	0    1    1    0   
 $EndComp
@@ -581,6 +595,8 @@ F 3 "~" H 12175 3725 50  0001 C CNN
 F 4 "~" H 12175 3725 50  0001 C CNN "Mfr"
 F 5 "~" H 12175 3725 50  0001 C CNN "PartNo"
 F 6 "C1525" H 12175 3725 50  0001 C CNN "LCSC"
+F 7 "~" H 12175 3725 50  0001 C CNN "Comment"
+F 8 "~" H 12175 3725 50  0001 C CNN "Mouser"
 	1    12175 3725
 	1    0    0    -1  
 $EndComp
@@ -599,6 +615,8 @@ F 3 "~" H 12500 3725 50  0001 C CNN
 F 4 "~" H 12500 3725 50  0001 C CNN "Mfr"
 F 5 "~" H 12500 3725 50  0001 C CNN "PartNo"
 F 6 "C1525" H 12500 3725 50  0001 C CNN "LCSC"
+F 7 "~" H 12500 3725 50  0001 C CNN "Comment"
+F 8 "~" H 12500 3725 50  0001 C CNN "Mouser"
 	1    12500 3725
 	1    0    0    -1  
 $EndComp
@@ -617,6 +635,8 @@ F 3 "~" H 12825 3725 50  0001 C CNN
 F 4 "~" H 12825 3725 50  0001 C CNN "Mfr"
 F 5 "~" H 12825 3725 50  0001 C CNN "PartNo"
 F 6 "C1525" H 12825 3725 50  0001 C CNN "LCSC"
+F 7 "~" H 12825 3725 50  0001 C CNN "Comment"
+F 8 "~" H 12825 3725 50  0001 C CNN "Mouser"
 	1    12825 3725
 	1    0    0    -1  
 $EndComp
@@ -635,6 +655,8 @@ F 3 "~" H 13150 3725 50  0001 C CNN
 F 4 "~" H 13150 3725 50  0001 C CNN "Mfr"
 F 5 "~" H 13150 3725 50  0001 C CNN "PartNo"
 F 6 "C1525" H 13150 3725 50  0001 C CNN "LCSC"
+F 7 "~" H 13150 3725 50  0001 C CNN "Comment"
+F 8 "~" H 13150 3725 50  0001 C CNN "Mouser"
 	1    13150 3725
 	1    0    0    -1  
 $EndComp
@@ -688,6 +710,8 @@ F 3 "~" H 12925 5200 50  0001 C CNN
 F 4 "~" H 12925 5200 50  0001 C CNN "Mfr"
 F 5 "~" H 12925 5200 50  0001 C CNN "PartNo"
 F 6 "C1525" H 12925 5200 50  0001 C CNN "LCSC"
+F 7 "~" H 12925 5200 50  0001 C CNN "Comment"
+F 8 "~" H 12925 5200 50  0001 C CNN "Mouser"
 	1    12925 5200
 	-1   0    0    -1  
 $EndComp
@@ -706,6 +730,8 @@ F 3 "~" H 12275 5200 50  0001 C CNN
 F 4 "~" H 12275 5200 50  0001 C CNN "Mfr"
 F 5 "~" H 12275 5200 50  0001 C CNN "PartNo"
 F 6 "C1525" H 12275 5200 50  0001 C CNN "LCSC"
+F 7 "~" H 12275 5200 50  0001 C CNN "Comment"
+F 8 "~" H 12275 5200 50  0001 C CNN "Mouser"
 	1    12275 5200
 	-1   0    0    -1  
 $EndComp
@@ -747,6 +773,8 @@ F 3 "~" H 4350 9550 50  0001 C CNN
 F 4 "~" H 4350 9550 50  0001 C CNN "Mfr"
 F 5 "~" H 4350 9550 50  0001 C CNN "PartNo"
 F 6 "C11702" H 4350 9550 50  0001 C CNN "LCSC"
+F 7 "~" H 4350 9550 50  0001 C CNN "Comment"
+F 8 "~" H 4350 9550 50  0001 C CNN "Mouser"
 	1    4350 9550
 	0    -1   1    0   
 $EndComp
@@ -763,6 +791,8 @@ F 3 "~" H 4925 9550 50  0001 C CNN
 F 4 "~" H 4925 9550 50  0001 C CNN "Mfr"
 F 5 "~" H 4925 9550 50  0001 C CNN "PartNo"
 F 6 "C11702" H 4925 9550 50  0001 C CNN "LCSC"
+F 7 "~" H 4925 9550 50  0001 C CNN "Comment"
+F 8 "~" H 4925 9550 50  0001 C CNN "Mouser"
 	1    4925 9550
 	0    -1   1    0   
 $EndComp
@@ -847,6 +877,8 @@ F 3 "https://www.st.com/resource/en/datasheet/stm32mp151c.pdf" H 4450 4275 50  0
 F 4 "~" H 3800 4125 50  0001 C CNN "Mfr"
 F 5 "~" H 3800 4125 50  0001 C CNN "PartNo"
 F 6 "~" H 3800 4125 50  0001 C CNN "LCSC"
+F 7 "~" H 3800 4125 50  0001 C CNN "Comment"
+F 8 "~" H 3800 4125 50  0001 C CNN "Mouser"
 	3    3800 4125
 	1    0    0    -1  
 $EndComp
