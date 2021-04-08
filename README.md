@@ -2,17 +2,21 @@
 
 A development board for the STM32MP1 Application Microprocessor with *all MPU pins routed through to 2.54mm headers.* No exotic proprietary connectors needed!
 
-The power supply is scheme is fairly complicated. I tried a discrete scheme using a single LDO for the 3.3V rail, a buck regulator for the 1.35V rail and a load switch to detect the 1.8V rail from the MPU and power the VDD3V3_USBFS and VDD3V3_USBHS internal regulator on the MPU. You need to pick a transistor that will fully switch on at only 1.8V. After having some issues I played it safe with the [SIP3250](https://www.mouser.co.uk/datasheet/2/427/sip32508-1763863.pdf) load switch, which turns on as low as 1.2V according to the datasheet
+#### Power Supply
+
+The power supply requirements for microprocessors are always complicated. I decided to use a discrete power supply scheme using a single LDO for the main 3.3V rail, a buck regulator for the DDR 1.35V rail and a load switch to detect the USB 1.8V rail. The latter comes from an internal regulator ands powers the VDD3V3_USBFS and VDD3V3_USBHS. This needs to be enabled only after the 1.8V rail comes up, so this needs to be enabled using a MOSFET. However, you need to pick a transistor that will fully switch on for 1.8V Vgs. After having some issues I played it safe with a load switch: the [SIP3250](https://www.mouser.co.uk/datasheet/2/427/sip32508-1763863.pdf), which turns on as low as 1.2V...according to the datasheet
 
 ![](STM32MP1_TestBoard_RevB/doc/datasheets/PWR/SIP3250_2.png)
 
-The characteristics seem to back this up until you get to the Fig.10. Still this is more than enough to use with 1.8V.
+The characteristics seem to back this up until you get to the Fig.10. Perhaps not quite as good as 1.2Vgs but even at 1.5Vgs, this is more than good enough for these requirements.
 |![](STM32MP1_TestBoard_RevB/doc/datasheets/PWR/SIP3250_1.png)|![](STM32MP1_TestBoard_RevB/doc/datasheets/PWR/SIP3250_3.png)|
 |:---:|:---:|
 
 
 
-In future revisions I may use a single PMIC. 
+Whether this is too much hassle when you can use a single PMIC is debatable. The sheer number of passive components needed to support a PMIC is eye-watering. 
+
+The table below lists the power supply scheme on this board:
 
 |Power Supply Rail|MPU Pin Name|MPU Pin #|Comment|
 |:---:|:---|:---|:---:|
