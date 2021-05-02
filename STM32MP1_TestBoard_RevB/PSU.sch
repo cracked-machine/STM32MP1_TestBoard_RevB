@@ -934,4 +934,6 @@ F 3 "" H 1725 8200 50  0001 C CNN
 	1    1725 8200
 	1    0    0    -1  
 $EndComp
+Text Notes 9250 6100 0    50   ~ 0
+For TPS563200 use div-by-10 values:\nR3 = 7K (or 8K2)\nR4 = 10K (or 11K)\nVolt divider is reversed!\n\nEN pin must be set high (using a bodge wire)
 $EndSCHEMATC

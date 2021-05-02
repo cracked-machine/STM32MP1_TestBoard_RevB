@@ -911,10 +911,10 @@ Connection ~ 9700 7675
 Wire Wire Line
 	9700 7675 9100 7675
 $Comp
-L Connector:TestPoint TP?
+L Connector:TestPoint TP3
 U 1 1 607F3316
 P 1725 7825
-F 0 "TP?" H 1783 7897 50  0000 L CNN
+F 0 "TP3" H 1783 7897 50  0000 L CNN
 F 1 "TestPoint" H 1783 7852 50  0001 L CNN
 F 2 "TestPoint:TestPoint_Pad_D1.0mm" H 1925 7825 50  0001 C CNN
 F 3 "~" H 1925 7825 50  0001 C CNN
@@ -924,14 +924,16 @@ $EndComp
 Wire Wire Line
 	1725 7825 1725 8200
 $Comp
-L power:GNDS #PWR?
+L power:GNDS #PWR0114
 U 1 1 607FB93E
 P 1725 8200
-F 0 "#PWR?" H 1725 7950 50  0001 C CNN
+F 0 "#PWR0114" H 1725 7950 50  0001 C CNN
 F 1 "GNDS" H 1730 8027 50  0000 C CNN
 F 2 "" H 1725 8200 50  0001 C CNN
 F 3 "" H 1725 8200 50  0001 C CNN
 	1    1725 8200
 	1    0    0    -1  
 $EndComp
+Text Notes 11325 4225 0    50   ~ 0
+For TPS563200 use div-by-10 values:\nR3 = 7K (or 8K2)\nR4 = 10K (or 11K)\nVolt divider is reversed!\n
 $EndSCHEMATC
