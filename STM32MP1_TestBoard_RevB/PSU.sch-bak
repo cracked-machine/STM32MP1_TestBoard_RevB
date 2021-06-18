@@ -259,8 +259,6 @@ Connection ~ 11625 4400
 Wire Wire Line
 	13000 4400 12250 4400
 Connection ~ 12250 4400
-Wire Wire Line
-	8650 4700 8650 5750
 $Comp
 L power:GNDS #PWR05
 U 1 1 5FBFD538
@@ -425,8 +423,6 @@ Connection ~ 6525 5250
 Wire Wire Line
 	6525 5250 6525 5750
 Connection ~ 6975 4300
-Wire Wire Line
-	6975 4300 8250 4300
 $Comp
 L Connector:Barrel_Jack J9
 U 1 1 5FC94803
@@ -513,7 +509,6 @@ F 3 "" H 10525 3100 50  0001 C CNN
 	1    10525 3100
 	1    0    0    -1  
 $EndComp
-NoConn ~ 8250 4500
 Wire Wire Line
 	13450 4400 15225 4400
 Wire Wire Line
@@ -934,6 +929,11 @@ F 3 "" H 1725 8200 50  0001 C CNN
 	1    1725 8200
 	1    0    0    -1  
 $EndComp
-Text Notes 11325 4225 0    50   ~ 0
-For TPS563200 use div-by-10 values:\nR3 = 7K (or 8K2)\nR4 = 10K (or 11K)\nVolt divider is reversed!\n
+Text Notes 9250 6100 0    50   ~ 0
+For TPS563200 use div-by-10 values:\nR3 = 7K (or 8K2)\nR4 = 10K (or 11K)\nVolt divider is reversed!\n\nEN pin must be set high (using a bodge wire)
+Wire Wire Line
+	6975 4300 8250 4300
+Wire Wire Line
+	8650 4700 8650 5750
+NoConn ~ 8250 4500
 $EndSCHEMATC

@@ -221,7 +221,7 @@ F 2 "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder" V 11555 5425 50  
 F 3 "~" H 11625 5425 50  0001 C CNN
 F 4 "~" H 11625 5425 50  0001 C CNN "Mfr"
 F 5 "~" H 11625 5425 50  0001 C CNN "PartNo"
-F 6 "C1542" H 11625 5425 50  0001 C CNN "LCSC"
+F 6 "C25571" H 11625 5425 50  0001 C CNN "LCSC"
 F 7 "~" H 11625 5425 50  0001 C CNN "Comment"
 F 8 "~" H 11625 5425 50  0001 C CNN "Mouser"
 	1    11625 5425
@@ -259,8 +259,6 @@ Connection ~ 11625 4400
 Wire Wire Line
 	13000 4400 12250 4400
 Connection ~ 12250 4400
-Wire Wire Line
-	8650 4700 8650 5750
 $Comp
 L power:GNDS #PWR05
 U 1 1 5FBFD538
@@ -425,8 +423,6 @@ Connection ~ 6525 5250
 Wire Wire Line
 	6525 5250 6525 5750
 Connection ~ 6975 4300
-Wire Wire Line
-	6975 4300 8250 4300
 $Comp
 L Connector:Barrel_Jack J9
 U 1 1 5FC94803
@@ -513,7 +509,6 @@ F 3 "" H 10525 3100 50  0001 C CNN
 	1    10525 3100
 	1    0    0    -1  
 $EndComp
-NoConn ~ 8250 4500
 Wire Wire Line
 	13450 4400 15225 4400
 Wire Wire Line
@@ -936,4 +931,9 @@ F 3 "" H 1725 8200 50  0001 C CNN
 $EndComp
 Text Notes 9250 6100 0    50   ~ 0
 For TPS563200 use div-by-10 values:\nR3 = 7K (or 8K2)\nR4 = 10K (or 11K)\nVolt divider is reversed!\n\nEN pin must be set high (using a bodge wire)
+Wire Wire Line
+	6975 4300 8250 4300
+Wire Wire Line
+	8650 4700 8650 5750
+NoConn ~ 8250 4500
 $EndSCHEMATC

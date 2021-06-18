@@ -1689,4 +1689,6 @@ $EndComp
 Connection ~ 17825 12825
 Wire Wire Line
 	17825 12825 17825 13025
+Text Notes 9950 11000 0    50   ~ 0
+PA13 specific behavior (AN5031 - STM32MP1 HW Development):\n—————————————————————————————————————————\n\n•During boot phase, in case of boot failure, the PA13 pin is set \nto low open-drain (that is the error LED lights bright).\n\n•During UART/USB boot, the PA13 pin toggles open-drain at a \nrate of about 5 Hz until a connection is started (that is error LED blinks fast).\n\n•With BOOT[2:0] = 0b100 (no boot, used for specific debug), \nPA13 toggles open-drain at a rate of about 5 kHz (that is error LED lights weak). \n\n•In all other cases, the PA13 is kept in its reset value, that is high-z until software setting.
 $EndSCHEMATC

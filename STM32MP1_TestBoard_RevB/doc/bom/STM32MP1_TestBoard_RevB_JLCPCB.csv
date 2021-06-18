@@ -31,7 +31,7 @@ Comment,Designator,Footprint,LCSC
 "0R","R16,R17,R23,R24","Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder","C25087"
 "0R","R25","Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder","C25087"
 "100K","R3","Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder","C25741"
-"82K","R4","Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder","C1542"
+"82K","R4","Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder","C25571"
 "10K","R6,R15,R21","Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder","C25744"
 "3K","R8","Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder","~"
 "SW_SPST","SW2","Button_Switch_SMD:Panasonic_EVQPUK_EVQPUB","~"
